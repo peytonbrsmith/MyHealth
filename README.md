@@ -1,2 +1,2 @@
 # MyHealth
- a UWP app for keeping track of and improving your health.
+A Windows app for keeping track of and improving your health.
